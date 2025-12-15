@@ -12,3 +12,8 @@ p{
     font-size: 14px;
     color: navy;
 } 
+#js-output {
+    cursor: pointer;
+    transition: color 5.5s ease;
+    font-weight: bold;
+}
